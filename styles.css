@@ -1,3 +1,11 @@
+.playwithtree{
+    position: relative;
+    display: block;
+    text-align: center;
+   
+}
+
+
 .decoration{
     position: relative;
     display: inline-block;
