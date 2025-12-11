@@ -1,3 +1,9 @@
+body{
+  background-image: url(IMG/bg\ tile.png);
+
+}
+
+
 .playwithtree{
     position: relative;
     display: block;
